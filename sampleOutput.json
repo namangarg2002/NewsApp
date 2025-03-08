@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Ben Talintyre",
+      "title": "Cricket great slams Albo’s beer tax freeze",
+      "description": "Australian cricket great David Warner has slammed Prime Minister Anthony Albanese’s move to combat soaring beer prices stating it’s simply “too late”.",
+      "url": "https://www.news.com.au/sport/cricket/cricket-great-david-warner-hammers-anthony-albaneses-beer-tax-freeze/news-story/1f16c266d7b49bc10c3591cefd3d66d4",
+      "urlToImage": "https://content.api.news/v3/images/bin/382d244bbd584d29de2f21c1c77ccbfd",
+      "publishedAt": "2025-03-04T01:55:00Z",
+      "content": "Australian cricket great David Warner has slammed Prime Minister Anthony Albanese’s move to combat soaring beer prices stating it’s simply “too late”.\r\nOn Monday, as Albanese stated he was downing “h… [+2887 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "ICC Champions Trophy 2025 – India vs Australia: Start, teams, stream",
+      "description": "Al Jazeera looks at favourites India against Australia in the first semifinal of cricket’s Champions Trophy on Tuesday.",
+      "url": "https://www.aljazeera.com/sports/2025/3/3/icc-champions-trophy-2025-india-vs-south-africa-start-time-teams-stream-preview-cricket",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/2025-02-08T133513Z_4620114_UP1EL2811QNZ0_RTRMADP_3_CRICKET-ODI-IND-ENG-PREVIEW-1741004967.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-03-03T14:17:06Z",
+      "content": "Who: India vs AustraliaWhat:ICC Champions Trophy 2025 semifinalWhere: Dubai International Cricket Stadium, Dubai, United Arab EmiratesWhen: Tuesday, March 4 at 1pm (09:00 GMT)Follow Al Jazeera Sports… [+7935 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
